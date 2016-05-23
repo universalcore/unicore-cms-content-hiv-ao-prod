@@ -1,17 +1,17 @@
 {
   "subtitle": "", 
   "description": "Escolha a sua resposta: [COM CERTEZA] ou [NA VERDADE, N\u00c3O]", 
-  "language": "por_BR", 
+  "language": "por_PT", 
   "title": "A melhor forma de preven\u00e7\u00e3o \u00e9 mesmo a camisinha?", 
   "primary_category": "c34db1ff79b443008e56a7b6e8b2097b", 
   "created_at": "2015-08-14T16:09:27+00:00", 
   "featured_in_category": false, 
-  "modified_at": "2016-02-09T12:33:04.266362+00:00", 
+  "modified_at": "2016-05-23T10:29:53.765858+00:00", 
   "_version": {
     "package_version": "1.4.2", 
     "language_version": "2.7.6", 
-    "language": "python", 
     "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
+    "language": "python", 
     "package": "elastic-git"
   }, 
   "linked_pages": [
@@ -23,7 +23,7 @@
   "source": null, 
   "featured": false, 
   "author_tags": [], 
-  "image": "c1ece78de2e7430aa4fb5588a5af19a3", 
+  "image": "00d4ccd7222a47ab96c5526e3e631f13", 
   "published": null, 
   "position": 4, 
   "image_host": "http://thumbor.unicore.io", 
